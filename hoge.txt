@@ -1,2 +1,6 @@
 test hogehoge
+<<<<<<< HEAD
 add gehogeho
+=======
+max hogehoge
+>>>>>>> br1
